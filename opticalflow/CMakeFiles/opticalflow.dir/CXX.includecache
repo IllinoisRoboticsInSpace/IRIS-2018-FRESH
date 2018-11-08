@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/patrick/theTrashbin/cpp/opticalflow/src/kanade.cpp
+opencv2/opencv.hpp
+/home/patrick/theTrashbin/cpp/opticalflow/src/opencv2/opencv.hpp
+string
+-
+vector
+-
+
